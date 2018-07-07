@@ -33,15 +33,10 @@ function sayHiToGrandma(string){
   var yes = "YES INDEED!"
   var love = "I love you, Grandma."
   var loveToo = "I love you, too."
-  if (string = lowercase){
-    return hi
-  }
-  else if (string = uppercase){
+  if (string = uppercase){
     return yes
   }
-  else if (string = love){
-    return loveToo
-
+}
 
 function sayHiToGrandma(string){
   var lowercase = "hello!"
@@ -50,15 +45,10 @@ function sayHiToGrandma(string){
   var yes = "YES INDEED!"
   var love = "I love you, Grandma."
   var loveToo = "I love you, too."
-  if (string = lowercase){
-    return hi
-  }
-  else if (string = uppercase){
-    return yes
-  }
-  else if (string = love){
+  if (string = love){
     return loveToo
-
+  }
+}
 
 
 
