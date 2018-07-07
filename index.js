@@ -23,7 +23,14 @@ function sayHiToGrandma(string){
   }
 }
 
-
+function sayHiToGrandma(string){
+  var lowercase = "hello!"
+  var uppercase = "HELLO!"
+  var hi = "I can't hear you!"
+  if (string = lowercase){
+    return hi
+  }
+}
 
 
 
